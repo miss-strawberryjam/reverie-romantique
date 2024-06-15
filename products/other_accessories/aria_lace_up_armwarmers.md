@@ -1,0 +1,45 @@
+---
+layout: default
+title: Reverie Romantique - Aria Lace-up Armwarmers
+---
+<h2>Aria Lace-up Armwarmers</h2>
+<br>
+<div class="float-none">
+<img src="/assets/products/PXL_20240612_004804216.RAW-01.COVER.jpg" class="img-rounded" />
+<img src="/assets/products/PXL_20240612_004958607.RAW-01.COVER.jpg" class="img-rounded" /><br>
+
+<div class="product-description">
+The lace armwarmers are made of stretch lace, delicate tulle lace, and cotton loop lace imported from Japan. All laces are tea-dyed in small batches and the lace is carefully hand-gathered. Each armwarmer has a lace-up back and is adorned on the front with a handmade bow. All ribbons are imported high quality cotton satin ribbons by the Japanese manufacturer Rose Rosa.
+</div>
+
+<div class="container mt-5">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Feature</th>
+                <th scope="col">Details</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Material</td>
+                <td>Stretch lace: nylon, polyester, and polyurethane. Tulle lace: nylon and rayon. Loop lace used for lacing: cotton. (Laces are tea-dyed in small batches using black tea.) Ribbon: cotton satin</td>
+            </tr>
+            <tr>
+                <td>Colorways</td>
+                <td>Lace is Ivory. Bows come in Ivory, Rose, Bordeaux, Chocolat, and Black.</td>
+            </tr>
+            <tr>
+                <td>Measurements</td>
+                <td>8" long with ruffles measuring about 2 1/2" long (stretch lace part measures about 5 1/2" long). </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<br>
+<div class="product-description">
+Additional notes: the finished product will feature a different stretch lace. Please refer to the Double Ruffle Lace Cuffs to see the stretch lace that will be used. The ribbon design of the finished product will also be slightly different (but will be made of the same ribbon, with approximately the same overall size). The stretch lace and lace-up back allow these armwarmers to accommodate most people.
+</div>
+<img src="/assets/products/PXL_20240612_010243579.RAW-01.COVER.jpg" class="img-rounded" />
+
+

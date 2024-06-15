@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacques+Francois&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&display=swap');
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css');
+
+.current {
+  color: #d88aa3;
+}
+
+body {
+ background-image: url("/assets/bg.jpg");
+ font-family: 'Jacques Francois', serif;
+ color: #685E4E;
+ margin:0px;
+ padding: 0px;
+ height:100%;
+ text-align: center;
+ font-size: 16px;
+ overflow-x: hidden;
+}
+
+.body-content {
+  padding: 20px;
+}
+
+p {
+	text-align:justify;
+}
+
+li {
+  text-align: justify;
+}
+
+.index-updates li {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+
+.product-card {
+  text-align: center;
+  letter-spacing: 1px;
+  padding-top: 5px;
+}
+
+.product-card .product-link {
+  text-decoration: none;
+}
+
+.product-subtitle {
+  font-size: 12px;
+  text-align: center;
+  padding-bottom: 50px;
+  color: #868686;
+}
+
+.product-description {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 749px) {
+
+nav {
+ text-align: center;
+ font-family: "IM Fell English", serif;
+ font-size: 18px;
+ color: #685E4E;
+ word-spacing: 16px;
+}
+nav ul li{
+  display: inline;
+  font-size: 18px;
+}
+
+ .mobile-hide {
+    display: none !important;
+ }
+
+.container-fluid {
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+    position:relative;
+
+}
+
+
+.img-responsive {
+    height: auto;
+}
+
+
+}
+
+
+
+
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 1024px) {
+.col-md-4, .col-md-8 {
+  width:100%!important;
+} 
+
+nav {
+ text-align: center;
+ font-family: "IM Fell English", serif;
+ font-size: 18px;
+ color: #685E4E;
+ word-spacing: 16px;
+}
+nav ul li{
+  display: inline;
+  font-size: 18px;
+}
+
+ .mobile-hide {
+    display: none !important;
+ }
+
+.container-fluid {
+    width:85%;
+    margin-left:auto;
+    margin-right:auto;
+    position:relative;
+
+}
+
+
+}
+
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (min-width: 1025px) {
+nav {
+ width: 15%;
+ height: 15%;
+ text-align: center;
+ font-family: "IM Fell English", serif;
+ margin-top: 2px;
+ font-size: 18px;
+ padding-top: 2px;
+ background-repeat: no-repeat;
+ color: #685E4E;
+ list-style-type: none;
+}
+
+.container-fluid {
+    width:75%;
+    margin-left:auto;
+    margin-right:auto;
+    position:relative;
+    min-height: 100%; 
+    text-align: center;
+}
+
+.right {
+   float:right!important
+}
+
+}
+
+
+
+a {
+	color: #685E4E;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #9e917c;
+	text-decoration: underline;
+}
+
+nav a {
+	text-decoration: none;
+	
+}
+
+
+
+
+
+#header {
+	width: 100%;
+	padding: 0px;
+	height:75px;
+	background: url("/assets/laceborderredone-small.png");
+}
+
+#footer {
+   height:60px;
+   background-repeat: repeat-x;
+   margin-top: 20px;
+}
+
+
+
+.about {
+   text-align: left;
+}
+
+
+.pagination {
+  display: inline-block;
+  word-spacing: 3px;
+  font-weight: 12px;
+}
+
+
+.pagination a {
+  float: left;
+  padding: 8px 8px;
+  text-decoration: none;
+}
+
+.pagination a.selected {
+  text-decoration: underline;
+}
+
+.wrapper { 
+   min-height:100vh;
+   position:relative;
+   }
+
+.table {
+    border-bottom:0px !important;
+}
+.table th, .table td {
+    border: 1px !important;
+    text-align: center;
+}
+.fixed-table-container {
+    border:0px !important;
+}
+
+.img-responsive {width: auto;}
+
+
+.img-hor {
+    -moz-transform: scale(1, 1);
+    -o-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+}

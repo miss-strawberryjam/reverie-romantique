@@ -1,0 +1,45 @@
+---
+layout: default
+title: Reverie Romantique - Aria Double Ruffle Lace Cuffs
+---
+<h2>Aria Double Ruffle Lace Cuffs</h2>
+<br>
+<div class="float-none">
+<img src="/assets/products/PXL_20240611_220600223.RAW-01.COVER.jpg" class="img-rounded" />
+<img src="/assets/products/PXL_20240611_220730659.RAW-01.MP.COVER.jpg" class="img-rounded" /><br>
+
+<div class="product-description">
+These lace cuffs are made of stretch lace and delicate tulle lace imported from Japan. All laces are tea-dyed in small batches and the lace is carefully hand-gathered. Each cuff is adorned with a handmade bow made out of high quality cotton satin ribbon from the Japanese brand Rose Rosa.
+</div>
+
+<div class="container mt-5">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Feature</th>
+                <th scope="col">Details</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Material</td>
+                <td>Stretch lace: nylon, polyester, and polyurethane. Tulle laces: nylon and rayon. (Laces are tea-dyed in small batches using black tea.) Ribbon: cotton satin</td>
+            </tr>
+            <tr>
+                <td>Colorways</td>
+                <td>Lace is Ivory. Bows come in Ivory, Rose, Bordeaux, Chocolat, and Black.</td>
+            </tr>
+            <tr>
+                <td>Measurements</td>
+                <td>8" long with ruffles measuring about 2 1/2" long (stretch lace part measures about 5 1/2" long). Upper arm circumference unstretched: 7"; can stretch up to about 9" comfortably.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+<br>
+<div class="product-description">
+Additional notes: the stretch lace has some elasticity to it and can accommodate a range of forearm circumferences. However, if your forearm circumference (at 5 1/2 inches up your arm measured from the wrist) is less than 7 1/2" you may find these cuffs slightly loose. Conversely if your forearm circumference is greater than 9" we recommend that you purchase the Aria Lace-up Armwarmers instead. The sizing on the armwarmers is adjustable thanks to the lacing.
+</div>
+
+
+
