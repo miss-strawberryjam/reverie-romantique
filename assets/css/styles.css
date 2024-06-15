@@ -116,8 +116,6 @@ ul {
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (min-width: 1025px) {
   nav {
-    width: 15%;
-    height: 15%;
     text-align: center;
     font-family: "IM Fell English", serif;
     margin-top: 2px;
